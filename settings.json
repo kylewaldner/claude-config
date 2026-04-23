@@ -1,0 +1,25 @@
+{
+  "statusLine": {
+    "type": "command",
+    "command": "~/.claude/statusline.sh"
+  },
+  "enabledPlugins": {
+    "sequence@sequence-marketplace": true,
+    "sequence-linear@sequence-marketplace": false,
+    "sequence-logs@sequence-marketplace": true,
+    "sequence-hackathon@sequence-marketplace": true,
+    "sequence-database@sequence-marketplace": true,
+    "kotlin-lsp@claude-plugins-official": true
+  },
+  "permissions": {
+    "disableAutoMode": "disable"
+  },
+  "extraKnownMarketplaces": {
+    "sequence-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "sequencehq/claude-marketplace"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "sequence-marketplace": {
+    "source": {
+      "source": "github",
+      "repo": "sequencehq/claude-marketplace"
+    },
+    "installLocation": "/Users/kyle.waldner/.claude/plugins/marketplaces/sequence-marketplace",
+    "lastUpdated": "2026-04-01T14:33:26.637Z"
+  },
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "/Users/kyle.waldner/.claude/plugins/marketplaces/claude-plugins-official",
+    "lastUpdated": "2026-03-20T18:25:55.032Z"
+  }
+}

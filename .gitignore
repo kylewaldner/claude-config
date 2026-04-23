@@ -1,0 +1,34 @@
+# Conversation history & sessions
+history.jsonl
+sessions/
+session-env/
+
+# Caches
+cache/
+paste-cache/
+file-history/
+shell-snapshots/
+mcp-needs-auth-cache.json
+policy-limits.json
+stats-cache.json
+
+# Background tasks & todos
+tasks/
+todos/
+
+# Debug, telemetry, analytics
+debug/
+telemetry/
+statsig/
+
+# Ephemeral
+plans/
+downloads/
+backups/
+
+# Plugin marketplace repos (embedded git repos) and caches
+plugins/marketplaces/
+plugins/install-counts-cache.json
+
+# Project data
+projects/

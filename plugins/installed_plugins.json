@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "plugins": {
+    "sequence@sequence-marketplace": [
+      {
+        "scope": "user",
+        "installPath": "/Users/kyle.waldner/.claude/plugins/cache/sequence-marketplace/sequence/1.1.0",
+        "version": "1.1.0",
+        "installedAt": "2026-04-01T14:33:30.385Z",
+        "lastUpdated": "2026-04-01T14:33:30.385Z",
+        "gitCommitSha": "aa11f1dfb822185d46833bced019a3bce12b1fb2"
+      }
+    ],
+    "sequence-linear@sequence-marketplace": [
+      {
+        "scope": "user",
+        "installPath": "/Users/kyle.waldner/.claude/plugins/cache/sequence-marketplace/sequence-linear/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2025-12-05T15:07:59.440Z",
+        "lastUpdated": "2025-12-05T15:07:59.440Z",
+        "gitCommitSha": "91453575643bb5b34d1ebaaa0d24a573feb58974"
+      }
+    ],
+    "sequence-logs@sequence-marketplace": [
+      {
+        "scope": "user",
+        "installPath": "/Users/kyle.waldner/.claude/plugins/cache/sequence-marketplace/sequence-logs/0.2.5",
+        "version": "0.2.5",
+        "installedAt": "2026-03-06T20:21:52.904Z",
+        "lastUpdated": "2026-03-06T20:21:52.904Z",
+        "gitCommitSha": "8c79d451a604df8ea53dd4800fa9a461c66897bc"
+      }
+    ],
+    "sequence-hackathon@sequence-marketplace": [
+      {
+        "scope": "user",
+        "installPath": "/Users/kyle.waldner/.claude/plugins/cache/sequence-marketplace/sequence-hackathon/0.1.0",
+        "version": "0.1.0",
+        "installedAt": "2026-03-27T20:35:08.091Z",
+        "lastUpdated": "2026-03-27T20:35:08.091Z",
+        "gitCommitSha": "d540fccd14d3ac7a67b9af5be01fa61fd5a7327e"
+      }
+    ],
+    "kotlin-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/kyle.waldner/.claude/plugins/cache/claude-plugins-official/kotlin-lsp/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-21T15:37:41.610Z",
+        "lastUpdated": "2026-04-21T15:37:41.610Z",
+        "gitCommitSha": "90accf6fd2008fe0ee9578ebc088740c3a754d58"
+      }
+    ],
+    "sequence-database@sequence-marketplace": [
+      {
+        "scope": "user",
+        "installPath": "/Users/kyle.waldner/.claude/plugins/cache/sequence-marketplace/sequence-database/1.1.0",
+        "version": "1.1.0",
+        "installedAt": "2026-04-23T19:29:17.528Z",
+        "lastUpdated": "2026-04-23T19:29:17.528Z",
+        "gitCommitSha": "aa11f1dfb822185d46833bced019a3bce12b1fb2"
+      }
+    ]
+  }
+}
