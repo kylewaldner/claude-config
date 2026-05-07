@@ -32,3 +32,6 @@ plugins/install-counts-cache.json
 
 # Project data
 projects/
+
+# super secret
+.credentials.json
